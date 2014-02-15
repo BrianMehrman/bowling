@@ -25,3 +25,12 @@ Frame   score
  9      148 
  10     168
  ```
+
+### Submission intructions:
+
+ 1. Please fork this repo into your own github repo.
+ 2. Create a folder with your name or github haddle and develop your solution there
+ 3. Once complete submit a pull request to merge in your submission to this repo
+ 4. Afterwards be apart of the community and review other submission, comment and critique
+
+
