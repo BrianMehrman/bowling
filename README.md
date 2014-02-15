@@ -10,6 +10,8 @@ A bowling match consists of ten frames. Each frame except for the tenth consists
 spacing is not important but it may make the example easier to understand
 
 The output from the console or UI show be as follows:
+
+```
 Frame   score
 -----   ----- 
  1       10 
@@ -22,3 +24,4 @@ Frame   score
  8      139 
  9      148 
  10     168
+ ```
